@@ -64,8 +64,8 @@
       <tuv lang="en">
         <seg>Collapse All Folds</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160905Z" creationid="piav" creationdate="20210415T160905Z">
-        <seg>Piilota kaikki taitot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161834Z" creationid="piav" creationdate="20210415T160905Z">
+        <seg>Piilota kaikki kutistu</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,8 +240,8 @@
       <tuv lang="en">
         <seg>Folding</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160621Z" creationid="piav" creationdate="20210415T160621Z">
-        <seg>Taittaminen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161729Z" creationid="piav" creationdate="20210415T160621Z">
+        <seg>Koodin kutistaminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,16 +688,16 @@
       <tuv lang="en">
         <seg>Toggle Current Fold</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160641Z" creationid="piav" creationdate="20210415T160641Z">
-        <seg>Nykyinen taitto päälle / pois päältä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161739Z" creationid="piav" creationdate="20210415T160641Z">
+        <seg>Kutistus päälle / pois päältä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Toggles the fold at the caret position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160928Z" creationid="piav" creationdate="20210415T160837Z">
-        <seg>Laittaa kohdistimen kohdalla olevan taiton päälle / pois päältä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161755Z" creationid="piav" creationdate="20210415T160837Z">
+        <seg>Laittaa kohdistimen kohdalla olevan kutistuksen päälle / pois päältä.</seg>
       </tuv>
     </tu>
     <tu>
