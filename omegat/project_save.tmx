@@ -806,6 +806,36 @@
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseCommentFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T184139Z" creationid="Kos Ivantsov" creationdate="20210415T184139Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ExpandAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T184208Z" creationid="Kos Ivantsov" creationdate="20210415T184208Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ToggleCurrentFold.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T184124Z" creationid="Kos Ivantsov" creationdate="20210415T184124Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
       <prop type="id">Action.ClipboardHistory.Mnemonic</prop>
       <tuv lang="en">
