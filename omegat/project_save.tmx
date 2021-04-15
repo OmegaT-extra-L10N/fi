@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>Can't Redo</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161244Z" creationid="piav" creationdate="20210415T161244Z">
-        <seg>Ei voi </seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T162038Z" creationid="piav" creationdate="20210415T161244Z">
+        <seg>Ei voi toistaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T162138Z" creationid="piav" creationdate="20210415T162138Z">
+        <seg>Valitse, mikä leikepöydälle viimeksi laitetuista teksteistä liitetään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collapse All Comments</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160939Z" creationid="piav" creationdate="20210415T160939Z">
@@ -64,24 +72,24 @@
       <tuv lang="en">
         <seg>Collapse All Folds</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161834Z" creationid="piav" creationdate="20210415T160905Z">
-        <seg>Piilota kaikki kutistu</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161853Z" creationid="piav" creationdate="20210415T160905Z">
+        <seg>Kutista kaikki mahdollinen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Collapses all comment folds.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160952Z" creationid="piav" creationdate="20210415T160952Z">
-        <seg>Piilottaa kaikki kommenttitaitot.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161930Z" creationid="piav" creationdate="20210415T160952Z">
+        <seg>Kutistaa kaikki kommentit.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Collapses all folds.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160923Z" creationid="piav" creationdate="20210415T160923Z">
-        <seg>Piilottaa kaikki taitot.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161914Z" creationid="piav" creationdate="20210415T160923Z">
+        <seg>Kutistaa kaikki mahdolliset kohdat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,16 +208,16 @@
       <tuv lang="en">
         <seg>Expand All Folds</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161003Z" creationid="piav" creationdate="20210415T161003Z">
-        <seg>Avaa kaikki taitot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161937Z" creationid="piav" creationdate="20210415T161003Z">
+        <seg>Laajenna kaikki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Expands all folds.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161012Z" creationid="piav" creationdate="20210415T161012Z">
-        <seg>Avaa kaikki taitot.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161959Z" creationid="piav" creationdate="20210415T161012Z">
+        <seg>Tuo kaikki kutistetut pätkät takaisin näkyviin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161729Z" creationid="piav" creationdate="20210415T160621Z">
         <seg>Koodin kutistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T162104Z" creationid="piav" creationdate="20210415T162104Z">
+        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T162108Z" creationid="piav" creationdate="20210415T162108Z">
+        <seg>Liitä historiasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Places text on clipboard at current location in text file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161154Z" creationid="piav" creationdate="20210415T161154Z">
@@ -538,6 +562,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161238Z" creationid="piav" creationdate="20210415T161238Z">
         <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T162103Z" creationid="piav" creationdate="20210415T162103Z">
+        <seg>Käyttää viimeksi kumottua toimintoa uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
