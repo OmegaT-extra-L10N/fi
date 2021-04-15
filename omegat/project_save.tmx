@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9fa0c2fcd" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>A</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161155Z" creationid="piav" creationdate="20210415T161155Z">
-        <seg>A</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160223Z" creationid="piav" creationdate="20210415T160223Z">
         <seg>Toinen samanniminen tiedosto on jo olemassa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>C</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160940Z" creationid="piav" creationdate="20210415T160940Z">
-        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,14 +126,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>D</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161101Z" creationid="piav" creationdate="20210415T161101Z">
-        <seg>D</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161105Z" creationid="piav" creationdate="20210415T161105Z">
@@ -258,14 +234,6 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161729Z" creationid="piav" creationdate="20210415T160621Z">
         <seg>Koodin kutistaminen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>H</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T162104Z" creationid="piav" creationdate="20210415T162104Z">
-        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,14 +454,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>P</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161122Z" creationid="piav" creationdate="20210415T161122Z">
-        <seg>P</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155943Z" creationid="piav" creationdate="20210415T155943Z">
@@ -562,14 +522,6 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155616Z" creationid="piav" creationdate="20210415T155616Z">
         <seg>Qt TS -tiedostot (Okapi)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>R</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161238Z" creationid="piav" creationdate="20210415T161238Z">
-        <seg>R</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,14 +622,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>T</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161030Z" creationid="piav" creationdate="20210415T161030Z">
-        <seg>T</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155627Z" creationid="piav" creationdate="20210415T155627Z">
@@ -746,14 +690,6 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155659Z" creationid="piav" creationdate="20210415T155659Z">
         <seg>Transifex-projektitiedostot (Okapi)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>U</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T161222Z" creationid="piav" creationdate="20210415T161222Z">
-        <seg>U</seg>
       </tuv>
     </tu>
     <tu>
@@ -869,5 +805,85 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.ClipboardHistory.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183541Z" creationid="Kos Ivantsov" creationdate="20210415T183541Z">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Copy.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183915Z" creationid="Kos Ivantsov" creationdate="20210415T183915Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Cut.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183649Z" creationid="Kos Ivantsov" creationdate="20210415T183649Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Delete.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183707Z" creationid="Kos Ivantsov" creationdate="20210415T183707Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Paste.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183726Z" creationid="Kos Ivantsov" creationdate="20210415T183726Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Redo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T184029Z" creationid="Kos Ivantsov" creationdate="20210415T184029Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.SelectAll.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T183812Z" creationid="Kos Ivantsov" creationdate="20210415T183812Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Undo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210415T184041Z" creationid="Kos Ivantsov" creationdate="20210415T184041Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
