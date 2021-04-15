@@ -8,7 +8,7 @@
       <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150543Z" creationid="piav" creationdate="20210415T150543Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150543Z" creationid="piav" creationdate="20210415T150543Z">
         <seg>Tällä hetkellä käytät &lt;b&gt;projektikohtaisia &lt;/b&gt; suodatinasetuksia.&lt;br&gt;Sen vuoksi parametritiedosto kopioideen uuteen sijaintiin, kun napsautat "OK". Tiedoston uusi sijainti on&lt;br&gt;</seg>
       </tuv>
     </tu>
@@ -16,7 +16,7 @@
       <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150934Z" creationid="piav" creationdate="20210415T150934Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150934Z" creationid="piav" creationdate="20210415T150934Z">
         <seg>Lisää kommentteihin käännösyksikön nimi</seg>
       </tuv>
     </tu>
@@ -24,7 +24,7 @@
       <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150142Z" creationid="piav" creationdate="20210415T150142Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150142Z" creationid="piav" creationdate="20210415T150142Z">
         <seg>Okapi-suodattimien asetukset</seg>
       </tuv>
     </tu>
@@ -32,7 +32,7 @@
       <tuv lang="en">
         <seg>Okapi XLIFF Filter Options</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150158Z" creationid="piav" creationdate="20210415T150158Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150158Z" creationid="piav" creationdate="20210415T150158Z">
         <seg>Okapi XLIFF -suodattimen asetukset</seg>
       </tuv>
     </tu>
@@ -40,7 +40,7 @@
       <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T153234Z" creationid="piav" creationdate="20210415T153234Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T153234Z" creationid="piav" creationdate="20210415T153234Z">
         <seg>Näytä ja suojele valinnalla translate='no' (jos tätä ei ole valittu, </seg>
       </tuv>
     </tu>
@@ -48,7 +48,7 @@
       <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150712Z" creationid="piav" creationdate="20210415T150712Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150712Z" creationid="piav" creationdate="20210415T150712Z">
         <seg>Käytä oletusmuotoisia suodatinasetuksia (%s)</seg>
       </tuv>
     </tu>
@@ -56,7 +56,7 @@
       <tuv lang="en">
         <seg>Use the following filter parameters file:</seg>
       </tuv>
-      <tuv lang="uk" changeid="piav" changedate="20210415T150807Z" creationid="piav" creationdate="20210415T150807Z">
+      <tuv lang="fi" changeid="piav" changedate="20210415T150807Z" creationid="piav" creationdate="20210415T150807Z">
         <seg>Käytä suodatinasetuksissa tätä tiedostoa:</seg>
       </tuv>
     </tu>
