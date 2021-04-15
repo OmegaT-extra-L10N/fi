@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161155Z" creationid="piav" creationdate="20210415T161155Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160223Z" creationid="piav" creationdate="20210415T160223Z">
         <seg>Toinen samanniminen tiedosto on jo olemassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160940Z" creationid="piav" creationdate="20210415T160940Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160939Z" creationid="piav" creationdate="20210415T160939Z">
+        <seg>Piilota kaikki kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collapse All Folds</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160905Z" creationid="piav" creationdate="20210415T160905Z">
@@ -30,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160952Z" creationid="piav" creationdate="20210415T160952Z">
+        <seg>Piilottaa kaikki kommenttitaitot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collapses all folds.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160923Z" creationid="piav" creationdate="20210415T160923Z">
         <seg>Piilottaa kaikki taitot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161118Z" creationid="piav" creationdate="20210415T161029Z">
+        <seg>Kopioi nykyisen valinnan leikepöydälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161019Z" creationid="piav" creationdate="20210415T161019Z">
+        <seg>Kopioi</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +98,30 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160100Z" creationid="piav" creationdate="20210415T160100Z">
         <seg>OMT-paketista luodaan uutta projektia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161031Z" creationid="piav" creationdate="20210415T161031Z">
+        <seg>Leikkaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161101Z" creationid="piav" creationdate="20210415T161101Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161105Z" creationid="piav" creationdate="20210415T161105Z">
+        <seg>Poista</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +170,30 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155634Z" creationid="piav" creationdate="20210415T155513Z">
         <seg>Kommentoidut Doxygen-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161004Z" creationid="piav" creationdate="20210415T161004Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161003Z" creationid="piav" creationdate="20210415T161003Z">
+        <seg>Avaa kaikki taitot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161012Z" creationid="piav" creationdate="20210415T161012Z">
+        <seg>Avaa kaikki taitot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161122Z" creationid="piav" creationdate="20210415T161122Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155943Z" creationid="piav" creationdate="20210415T155943Z">
@@ -370,6 +474,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160430Z" creationid="piav" creationdate="20210415T160416Z">
         <seg>OMT-projektia pakataan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161123Z" creationid="piav" creationdate="20210415T161123Z">
+        <seg>Liitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161154Z" creationid="piav" creationdate="20210415T161154Z">
+        <seg>Liittää leikepöydän tekstin tekstitiedoston nykyiseen kohtaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +518,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161116Z" creationid="piav" creationdate="20210415T161042Z">
+        <seg>Poistaa nykyisen valinnan ja laittaa sen leikepöydälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161112Z" creationid="piav" creationdate="20210415T161112Z">
+        <seg>Poistaa nykyisen valinnan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155610Z" creationid="piav" creationdate="20210415T155610Z">
         <seg>SDL-XLIFF-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161159Z" creationid="piav" creationdate="20210415T161159Z">
+        <seg>Valitse kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161220Z" creationid="piav" creationdate="20210415T161220Z">
+        <seg>Valitsee kaiken tekstin nykyisessä tiedostossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155137Z" creationid="piav" creationdate="20210415T153234Z">
@@ -442,6 +594,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155455Z" creationid="piav" creationdate="20210415T155455Z">
         <seg>Asetustiedoton kopioinnissa oli ongelmia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T161030Z" creationid="piav" creationdate="20210415T161030Z">
+        <seg>T</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +656,8 @@
       <tuv lang="en">
         <seg>Toggles the fold at the caret position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160837Z" creationid="piav" creationdate="20210415T160837Z">
-        <seg>Laittaa kohdistimen kohdalla olevan taiton päälle / pois päältä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160928Z" creationid="piav" creationdate="20210415T160837Z">
+        <seg>Laittaa kohdistimen kohdalla olevan taiton päälle / pois päältä.</seg>
       </tuv>
     </tu>
     <tu>
