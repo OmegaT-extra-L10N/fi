@@ -40,8 +40,16 @@
       <tuv lang="en">
         <seg>Delete unpacked OMT Package</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160320Z" creationid="piav" creationdate="20210415T160320Z">
-        <seg>Poista pure</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160336Z" creationid="piav" creationdate="20210415T160320Z">
+        <seg>Poista avattu OMT-paketti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160439Z" creationid="piav" creationdate="20210415T160439Z">
+        <seg>Projektia poistetaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160621Z" creationid="piav" creationdate="20210415T160621Z">
+        <seg>Taittaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155520Z" creationid="piav" creationdate="20210415T155520Z">
@@ -142,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160455Z" creationid="piav" creationdate="20210415T160455Z">
+        <seg>Rivi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155548Z" creationid="piav" creationdate="20210415T155548Z">
@@ -154,6 +178,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155259Z" creationid="piav" creationdate="20210415T155259Z">
         <seg>Polku puuttuu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160513Z" creationid="piav" creationdate="20210415T160513Z">
+        <seg>Tällä rivillä on useita merkkejä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +254,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160409Z" creationid="piav" creationdate="20210415T160409Z">
+        <seg>OMT-paketti on tuotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160424Z" creationid="piav" creationdate="20210415T160424Z">
+        <seg>OMT-projekti on pakattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160548Z" creationid="piav" creationdate="20210415T160548Z">
+        <seg>Näkyvissä on {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150142Z" creationid="piav" creationdate="20210415T150142Z">
@@ -274,6 +330,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155937Z" creationid="piav" creationdate="20210415T155937Z">
         <seg>Pakkaa projekti OMT-tiedostoksi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160430Z" creationid="piav" creationdate="20210415T160416Z">
+        <seg>OMT-projektia pakataan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160610Z" creationid="piav" creationdate="20210415T160610Z">
+        <seg>Kohdista painamalla F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +424,8 @@
       <tuv lang="en">
         <seg>The package has been successfully unpacked.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T160302Z" creationid="piav" creationdate="20210415T160302Z">
-        <seg>Paketin purku onnistui.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160331Z" creationid="piav" creationdate="20210415T160302Z">
+        <seg>Paketin avaaminen onnistui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +472,16 @@
       <tuv lang="en">
         <seg>Unpack project from OMT file...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T155927Z" creationid="piav" creationdate="20210415T155927Z">
-        <seg>Pura projekti OMT-tiedostosta…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160327Z" creationid="piav" creationdate="20210415T155927Z">
+        <seg>Avaa projekti OMT-tiedostosta…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160347Z" creationid="piav" creationdate="20210415T160347Z">
+        <seg>OMT-pakettia avataan…</seg>
       </tuv>
     </tu>
     <tu>
