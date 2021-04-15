@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160223Z" creationid="piav" creationdate="20210415T160223Z">
+        <seg>Toinen samanniminen tiedosto on jo olemassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155458Z" creationid="piav" creationdate="20210415T155458Z">
@@ -18,6 +26,46 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155435Z" creationid="piav" creationdate="20210415T155435Z">
         <seg>Kopiointivirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160100Z" creationid="piav" creationdate="20210415T160100Z">
+        <seg>OMT-paketista luodaan uutta projektia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160320Z" creationid="piav" creationdate="20210415T160320Z">
+        <seg>Poista pure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160309Z" creationid="piav" creationdate="20210415T160309Z">
+        <seg>Haluatko poistaa OMT-paketin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160136Z" creationid="piav" creationdate="20210415T160136Z">
+        <seg>Haluatko korvata sen paketista tulevalla käännöksellä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160231Z" creationid="piav" creationdate="20210415T160231Z">
+        <seg>Haluatko korvata tämän paketin?</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160251Z" creationid="piav" creationdate="20210415T160251Z">
+        <seg>OMT-paketti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160009Z" creationid="piav" creationdate="20210415T160009Z">
         <seg>OMT-pakettitiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160248Z" creationid="piav" creationdate="20210415T160248Z">
+        <seg>OMT-paketin luominen onnistui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +242,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155600Z" creationid="piav" creationdate="20210415T155600Z">
         <seg>OpenXML-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160237Z" creationid="piav" creationdate="20210415T160237Z">
+        <seg>Korvaa OMT-paketti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160207Z" creationid="piav" creationdate="20210415T160207Z">
+        <seg>Korvaa project_save.tmx-tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +350,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160302Z" creationid="piav" creationdate="20210415T160302Z">
+        <seg>Paketin purku onnistui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155332Z" creationid="piav" creationdate="20210415T155332Z">
         <seg>Asetukset sisältävää tiedostoa ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160119Z" creationid="piav" creationdate="20210415T160119Z">
+        <seg>Projektissa on jo työn alla oleva käännöstyö.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +402,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155927Z" creationid="piav" creationdate="20210415T155927Z">
         <seg>Pura projekti OMT-tiedostosta…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160047Z" creationid="piav" creationdate="20210415T160047Z">
+        <seg>Nykyistä projektia päivitetään OMT-paketin sisällöllä</seg>
       </tuv>
     </tu>
     <tu>
