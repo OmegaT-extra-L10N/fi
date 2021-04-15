@@ -38,10 +38,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155127Z" creationid="piav" creationdate="20210415T154957Z">
+        <seg>Suojele tägillä state='final' merkitty sisältö (Jos tätä ei ole valittu, tällaista sisältöä voi muokata) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T154923Z" creationid="piav" creationdate="20210415T153234Z">
-        <seg>Näytä suojeltu sisältö, joka on merkitty tägillä translate='no' (jos tätä ei ole asetettu, sisältöä ei pureta)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155058Z" creationid="piav" creationdate="20210415T153234Z">
+        <seg>Näytä tägillä translate='no' suojeltu sisältö (Jos tätä ei ole valittu, sisältöä ei pureta.)</seg>
       </tuv>
     </tu>
     <tu>
