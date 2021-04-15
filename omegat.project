@@ -19,7 +19,7 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>en</source_lang>
-        <target_lang>uk</target_lang>
+        <target_lang>fi</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
         <target_tok>net.briac.omegat.plugin.voikko.FinnishVoikkoTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
