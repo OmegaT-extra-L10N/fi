@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160905Z" creationid="piav" creationdate="20210415T160905Z">
+        <seg>Piilota kaikki taitot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160923Z" creationid="piav" creationdate="20210415T160923Z">
+        <seg>Piilottaa kaikki taitot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Error</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155435Z" creationid="piav" creationdate="20210415T155435Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155634Z" creationid="piav" creationdate="20210415T155513Z">
         <seg>Kommentoidut Doxygen-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160647Z" creationid="piav" creationdate="20210415T160647Z">
+        <seg>F</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155740Z" creationid="piav" creationdate="20210415T155740Z">
         <seg>Tiedostossa ei ole elementtejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160907Z" creationid="piav" creationdate="20210415T160907Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +482,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155716Z" creationid="piav" creationdate="20210415T155716Z">
         <seg>Versioattribuutti puuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160641Z" creationid="piav" creationdate="20210415T160641Z">
+        <seg>Nykyinen taitto päälle / pois päältä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160837Z" creationid="piav" creationdate="20210415T160837Z">
+        <seg>Laittaa kohdistimen kohdalla olevan taiton päälle / pois päältä</seg>
       </tuv>
     </tu>
     <tu>
