@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160028Z" creationid="piav" creationdate="20210415T160028Z">
+        <seg>OMT-paketti ei kelpaa, tiedosto "omegat.project" puuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is there an open project?</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155427Z" creationid="piav" creationdate="20210415T155427Z">
@@ -126,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155740Z" creationid="piav" creationdate="20210415T155740Z">
+        <seg>Tiedostossa ei ole elementtejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155456Z" creationid="piav" creationdate="20210415T155456Z">
         <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160009Z" creationid="piav" creationdate="20210415T160009Z">
+        <seg>OMT-pakettitiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +178,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155600Z" creationid="piav" creationdate="20210415T155600Z">
         <seg>OpenXML-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155943Z" creationid="piav" creationdate="20210415T155943Z">
+        <seg>Pakkaa ja poista projekti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155937Z" creationid="piav" creationdate="20210415T155937Z">
+        <seg>Pakkaa projekti OMT-tiedostoksi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +226,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155211Z" creationid="piav" creationdate="20210415T155211Z">
         <seg>Valitse suodatinasetuksien tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T160002Z" creationid="piav" creationdate="20210415T160002Z">
+        <seg>Valitse OMT-paketin sijainti ja nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155950Z" creationid="piav" creationdate="20210415T155950Z">
+        <seg>Valitse tuotava OMT-paketti</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155927Z" creationid="piav" creationdate="20210415T155927Z">
+        <seg>Pura projekti OMT-tiedostosta…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150712Z" creationid="piav" creationdate="20210415T150712Z">
@@ -282,6 +346,30 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155708Z" creationid="piav" creationdate="20210415T155708Z">
         <seg>XLIFF-2-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155807Z" creationid="piav" creationdate="20210415T155755Z">
+        <seg>XML-tiedostot (Okapin XML-suodatin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155817Z" creationid="piav" creationdate="20210415T155804Z">
+        <seg>XML-tiedostot (Okapin XML Stream suodatin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155822Z" creationid="piav" creationdate="20210415T155822Z">
+        <seg>YAML-tiedostot (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
