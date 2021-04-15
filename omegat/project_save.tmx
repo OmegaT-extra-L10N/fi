@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155458Z" creationid="piav" creationdate="20210415T155458Z">
+        <seg>Peruuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155435Z" creationid="piav" creationdate="20210415T155435Z">
+        <seg>Kopiointivirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155634Z" creationid="piav" creationdate="20210415T155513Z">
+        <seg>Kommentoidut Doxygen-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155249Z" creationid="piav" creationdate="20210415T155249Z">
@@ -22,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155520Z" creationid="piav" creationdate="20210415T155520Z">
+        <seg>HTML-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155532Z" creationid="piav" creationdate="20210415T155532Z">
+        <seg>InDesign IDML -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150934Z" creationid="piav" creationdate="20210415T150934Z">
@@ -30,10 +70,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155427Z" creationid="piav" creationdate="20210415T155427Z">
+        <seg>Onko jokin projekti avoinna?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155541Z" creationid="piav" creationdate="20210415T155541Z">
+        <seg>JSON-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155548Z" creationid="piav" creationdate="20210415T155548Z">
+        <seg>Markdown-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155259Z" creationid="piav" creationdate="20210415T155259Z">
         <seg>Polku puuttuu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155733Z" creationid="piav" creationdate="20210415T155733Z">
+        <seg>Yhtään &lt;xliff&gt;-elementtiä ei löytynyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155456Z" creationid="piav" creationdate="20210415T155456Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150142Z" creationid="piav" creationdate="20210415T150142Z">
@@ -70,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155600Z" creationid="piav" creationdate="20210415T155600Z">
+        <seg>OpenXML-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155155Z" creationid="piav" creationdate="20210415T154957Z">
         <seg>Suojele tägillä state='final' merkityt stringit (Jos tätä ei ole valittu, stringejä voi muokata.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155616Z" creationid="piav" creationdate="20210415T155616Z">
+        <seg>Qt TS -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155610Z" creationid="piav" creationdate="20210415T155610Z">
+        <seg>SDL-XLIFF-tiedostot (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +198,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155455Z" creationid="piav" creationdate="20210415T155455Z">
+        <seg>Asetustiedoton kopioinnissa oli ongelmia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155627Z" creationid="piav" creationdate="20210415T155627Z">
+        <seg>TagEditor TTX -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155332Z" creationid="piav" creationdate="20210415T155332Z">
         <seg>Asetukset sisältävää tiedostoa ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155716Z" creationid="piav" creationdate="20210415T155716Z">
+        <seg>Versioattribuutti puuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155659Z" creationid="piav" creationdate="20210415T155659Z">
+        <seg>Transifex-projektitiedostot (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +258,30 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150807Z" creationid="piav" creationdate="20210415T150807Z">
         <seg>Käytä suodatinasetuksissa tätä tiedostoa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155642Z" creationid="piav" creationdate="20210415T155642Z">
+        <seg>Wordfast Pro TXML -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155704Z" creationid="piav" creationdate="20210415T155704Z">
+        <seg>XLIFF-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T155708Z" creationid="piav" creationdate="20210415T155708Z">
+        <seg>XLIFF-2-tiedostot (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
