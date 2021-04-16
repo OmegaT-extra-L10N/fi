@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164359Z" creationid="piav" creationdate="20210416T164359Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155548Z" creationid="piav" creationdate="20210415T155548Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164355Z" creationid="piav" creationdate="20210416T164355Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removes current selection and places it on the clipboard.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161116Z" creationid="piav" creationdate="20210415T161042Z">
@@ -862,10 +878,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164401Z" creationid="piav" creationdate="20210416T164357Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164350Z" creationid="piav" creationdate="20210416T164350Z">
+        <seg>Koko sana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155642Z" creationid="piav" creationdate="20210415T155642Z">
         <seg>Wordfast Pro TXML -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164654Z" creationid="piav" creationdate="20210416T164654Z">
+        <seg>Kietaise haku</seg>
       </tuv>
     </tu>
     <tu>
