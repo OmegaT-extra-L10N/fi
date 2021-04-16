@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165527Z" creationid="piav" creationdate="20210416T165527Z">
+        <seg>Viimeksi muokattu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T163824Z" creationid="piav" creationdate="20210416T163824Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150158Z" creationid="piav" creationdate="20210415T150158Z">
         <seg>Okapi XLIFF -suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165544Z" creationid="piav" creationdate="20210416T165544Z">
+        <seg>Vanha Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165557Z" creationid="piav" creationdate="20210416T165557Z">
+        <seg>Järjestelmän oletusarvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155627Z" creationid="piav" creationdate="20210415T155627Z">
@@ -990,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165545Z" creationid="piav" creationdate="20210416T165545Z">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155418Z" creationid="piav" creationdate="20210415T155418Z">
@@ -1066,6 +1098,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T164350Z" creationid="piav" creationdate="20210416T164350Z">
         <seg>Koko sana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165547Z" creationid="piav" creationdate="20210416T165547Z">
+        <seg>Windows (\r\n)</seg>
       </tuv>
     </tu>
     <tu>
