@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164107Z" creationid="piav" creationdate="20210416T164107Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can't Redo</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T162038Z" creationid="piav" creationdate="20210415T161244Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164136Z" creationid="piav" creationdate="20210416T164126Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161105Z" creationid="piav" creationdate="20210415T161105Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160439Z" creationid="piav" creationdate="20210415T160439Z">
         <seg>Projektia poistetaan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164116Z" creationid="piav" creationdate="20210416T164116Z">
+        <seg>Suunta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164124Z" creationid="piav" creationdate="20210416T164124Z">
+        <seg>Alaspäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155634Z" creationid="piav" creationdate="20210415T155513Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161004Z" creationid="piav" creationdate="20210415T161004Z">
         <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164104Z" creationid="piav" creationdate="20210416T164104Z">
+        <seg>Virhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +266,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T150543Z" creationid="piav" creationdate="20210415T150543Z">
         <seg>Tällä hetkellä käytät &lt;b&gt;projektikohtaisia &lt;/b&gt; suodatinasetuksia.&lt;br&gt;Sen vuoksi parametritiedosto kopioideen uuteen sijaintiin, kun napsautat "OK". Tiedoston uusi sijainti on&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164110Z" creationid="piav" creationdate="20210416T164110Z">
+        <seg>Etsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +370,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155548Z" creationid="piav" creationdate="20210415T155548Z">
         <seg>Markdown-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164348Z" creationid="piav" creationdate="20210416T164348Z">
+        <seg>Täsmää kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164111Z" creationid="piav" creationdate="20210416T164111Z">
+        <seg>Korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155610Z" creationid="piav" creationdate="20210415T155610Z">
@@ -726,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164128Z" creationid="piav" creationdate="20210416T164128Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155418Z" creationid="piav" creationdate="20210415T155418Z">
@@ -754,6 +826,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160347Z" creationid="piav" creationdate="20210415T160347Z">
         <seg>OMT-pakettia avataan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164119Z" creationid="piav" creationdate="20210416T164119Z">
+        <seg>Ylöspäin</seg>
       </tuv>
     </tu>
     <tu>
