@@ -39,6 +39,12 @@
                 <mapping local="/source/RSyntaxTextArea/rsyntaxtextarea/focusabletip/FocusableTip.properties" repository="/RSyntaxTextArea/src/main/resources/org/fife/ui/rsyntaxtextarea/focusabletip/FocusableTip.properties"/>
                 <mapping local="/source/RSyntaxTextArea/rtextarea/RTextArea.properties" repository="/RSyntaxTextArea/src/main/resources/org/fife/ui/rtextarea/RTextArea.properties"/>
             </repository>
+            <repository type="http" url="https://raw.githubusercontent.com/bobbylight/RSTAUI/master">
+                <mapping local="/source/RSTAUI/ui/GoToDialog.properties" repository="/RSTAUI/src/main/resources/org/fife/rsta/ui/GoToDialog.properties"/>
+                <mapping local="/source/RSTAUI/ui/TextFilePropertiesDialog.properties" repository="/RSTAUI/src/main/resources/org/fife/rsta/ui/TextFilePropertiesDialog.properties"/>
+                <mapping local="/source/RSTAUI/ui/search/Search.properties" repository="/RSTAUI/src/main/resources/org/fife/rsta/ui/search/Search.properties"/>
+                <mapping local="/source/RSTAUI/ui/search/SearchToolBar.properties" repository="/RSTAUI/src/main/resources/org/fife/rsta/ui/search/SearchToolBar.properties"/>
+            </repository>		
             <repository type="http" url="https://raw.githubusercontent.com/briacp/plugin-omt-package/master">
                 <mapping local="/source/omt-package/omt-package.properties" repository="/src/main/resources/omt-package.properties"/>
             </repository>
