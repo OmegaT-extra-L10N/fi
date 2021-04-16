@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164755Z" creationid="piav" creationdate="20210416T164755Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160223Z" creationid="piav" creationdate="20210415T160223Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161914Z" creationid="piav" creationdate="20210415T160923Z">
         <seg>Kutistaa kaikki mahdolliset kohdat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165136Z" creationid="piav" creationdate="20210416T165136Z">
+        <seg>Sisältöapua saatavilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164722Z" creationid="piav" creationdate="20210416T164709Z">
+        <seg>Etsi tämä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folding</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161729Z" creationid="piav" creationdate="20210415T160621Z">
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155520Z" creationid="piav" creationdate="20210415T155520Z">
         <seg>HTML-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164725Z" creationid="piav" creationdate="20210416T164725Z">
+        <seg>I</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164758Z" creationid="piav" creationdate="20210416T164758Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T163827Z" creationid="piav" creationdate="20210416T163827Z">
@@ -370,6 +410,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T164359Z" creationid="piav" creationdate="20210416T164359Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164751Z" creationid="piav" creationdate="20210416T164751Z">
+        <seg>Merkitse kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164728Z" creationid="piav" creationdate="20210416T164728Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155943Z" creationid="piav" creationdate="20210415T155943Z">
@@ -622,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164754Z" creationid="piav" creationdate="20210416T164754Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re-applies the last action undone.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T162103Z" creationid="piav" creationdate="20210415T162103Z">
@@ -666,6 +730,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T164111Z" creationid="piav" creationdate="20210416T164111Z">
         <seg>Korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164737Z" creationid="piav" creationdate="20210416T164737Z">
+        <seg>Korvaa kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164713Z" creationid="piav" creationdate="20210416T164713Z">
+        <seg>Korvaa tällä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +1034,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155308Z" creationid="piav" creationdate="20210415T155308Z">
         <seg>Sinun on määriteltävä polku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164656Z" creationid="piav" creationdate="20210416T164656Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
