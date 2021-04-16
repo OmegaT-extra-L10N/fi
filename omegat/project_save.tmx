@@ -294,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165217Z" creationid="piav" creationdate="20210416T165217Z">
+        <seg>Etsi edellinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T164722Z" creationid="piav" creationdate="20210416T164709Z">
         <seg>Etsi tämä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165139Z" creationid="piav" creationdate="20210416T165139Z">
+        <seg>Etsi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,6 +810,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161220Z" creationid="piav" creationdate="20210415T161220Z">
         <seg>Valitsee kaiken tekstin nykyisessä tiedostossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165229Z" creationid="piav" creationdate="20210416T165229Z">
+        <seg>Shift+enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165209Z" creationid="piav" creationdate="20210416T165209Z">
+        <seg>Shift+Enter hakee taaksepäin</seg>
       </tuv>
     </tu>
     <tu>
