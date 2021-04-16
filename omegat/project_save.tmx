@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165502Z" creationid="piav" creationdate="20210416T165502Z">
+        <seg>Merkit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose what text to paste from text recently on the clipboard.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T162138Z" creationid="piav" creationdate="20210415T162138Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165517Z" creationid="piav" creationdate="20210416T165517Z">
+        <seg>Merkistökoodaus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210416T164104Z" creationid="piav" creationdate="20210416T164104Z">
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160647Z" creationid="piav" creationdate="20210415T160647Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165523Z" creationid="piav" creationdate="20210416T165523Z">
+        <seg>Tiedoston koko:</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +438,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165515Z" creationid="piav" creationdate="20210416T165515Z">
+        <seg>Rivin päättävä merkki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line: {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160455Z" creationid="piav" creationdate="20210415T160455Z">
         <seg>Rivi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165459Z" creationid="piav" creationdate="20210416T165459Z">
+        <seg>Rivit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165455Z" creationid="piav" creationdate="20210416T165455Z">
+        <seg>Polku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Places text on clipboard at current location in text file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161154Z" creationid="piav" creationdate="20210415T161154Z">
@@ -674,6 +722,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T160610Z" creationid="piav" creationdate="20210415T160610Z">
         <seg>Kohdista painamalla F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165453Z" creationid="piav" creationdate="20210416T165453Z">
+        <seg>Ominaisuudet: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165441Z" creationid="piav" creationdate="20210416T165441Z">
+        <seg>Korvaa tällä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155610Z" creationid="piav" creationdate="20210415T155610Z">
@@ -816,16 +880,16 @@
       <tuv lang="en">
         <seg>Shift+Enter performs a backwards replace</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210416T165229Z" creationid="piav" creationdate="20210416T165229Z">
-        <seg>Shift+enter</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165427Z" creationid="piav" creationdate="20210416T165229Z">
+        <seg>Näppäinyhdistelmä vaihto+Enter korvaa järjestyksessä edellisen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Shift+Enter performs a backwards search</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210416T165209Z" creationid="piav" creationdate="20210416T165209Z">
-        <seg>Shift+Enter hakee taaksepäin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165320Z" creationid="piav" creationdate="20210416T165209Z">
+        <seg>Näppäinyhdistelmä vaihto+Enter hakee taaksepäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1074,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155642Z" creationid="piav" creationdate="20210415T155642Z">
         <seg>Wordfast Pro TXML -tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T165504Z" creationid="piav" creationdate="20210416T165504Z">
+        <seg>Sanoja:</seg>
       </tuv>
     </tu>
     <tu>
