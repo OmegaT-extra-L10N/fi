@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9fa0c2fcd" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T163813Z" creationid="piav" creationdate="20210416T163813Z">
+        <seg>Mene riville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155520Z" creationid="piav" creationdate="20210415T155520Z">
@@ -282,6 +290,22 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T155541Z" creationid="piav" creationdate="20210415T155541Z">
         <seg>JSON-tiedostot (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T163827Z" creationid="piav" creationdate="20210416T163827Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T163824Z" creationid="piav" creationdate="20210416T163824Z">
+        <seg>Rivin numero:</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +522,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T161154Z" creationid="piav" creationdate="20210415T161154Z">
         <seg>Liittää leikepöydän tekstin tekstitiedoston nykyiseen kohtaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210416T164101Z" creationid="piav" creationdate="20210416T164101Z">
+        <seg>Kirjoita luku väliltä 1 ja </seg>
       </tuv>
     </tu>
     <tu>
